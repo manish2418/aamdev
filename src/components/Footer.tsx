@@ -54,11 +54,11 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               {[
                 'Web Development', 
-                'Mobile App Development', 
+                // 'Mobile App Development', 
                 'Custom Software', 
                 'Database Solutions', 
                 'Cloud Services', 
-                'Cybersecurity'
+                // 'Cybersecurity'
               ].map((service) => (
                 <li key={service}>
                   <a 

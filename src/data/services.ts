@@ -20,19 +20,19 @@ export const services: Service[] = [
       'API development and integration'
     ]
   },
-  {
-    id: 2,
-    iconKey: 'mobileDevelopment',
-    title: 'Mobile App Development',
-    description: 'Build powerful, intuitive mobile experiences for iOS and Android platforms.',
-    features: [
-      'Native iOS and Android development',
-      'Cross-platform solutions (React Native, Flutter)',
-      'UI/UX design and prototyping',
-      'App performance optimization',
-      'App store deployment and management'
-    ]
-  },
+  // {
+  //   id: 2,
+  //   iconKey: 'mobileDevelopment',
+  //   title: 'Mobile App Development',
+  //   description: 'Build powerful, intuitive mobile experiences for iOS and Android platforms.',
+  //   features: [
+  //     'Native iOS and Android development',
+  //     'Cross-platform solutions (React Native, Flutter)',
+  //     'UI/UX design and prototyping',
+  //     'App performance optimization',
+  //     'App store deployment and management'
+  //   ]
+  // },
   {
     id: 3,
     iconKey: 'customSoftware',
@@ -72,17 +72,17 @@ export const services: Service[] = [
       'Cloud infrastructure management'
     ]
   },
-  {
-    id: 6,
-    iconKey: 'cybersecurity',
-    title: 'Cybersecurity',
-    description: 'Protect your business and customer data with comprehensive security solutions.',
-    features: [
-      'Security assessments and audits',
-      'Secure application development',
-      'Vulnerability management',
-      'Compliance (GDPR, HIPAA, PCI DSS)',
-      'Security training and awareness'
-    ]
-  }
+  // {
+  //   id: 6,
+  //   iconKey: 'cybersecurity',
+  //   title: 'Cybersecurity',
+  //   description: 'Protect your business and customer data with comprehensive security solutions.',
+  //   features: [
+  //     'Security assessments and audits',
+  //     'Secure application development',
+  //     'Vulnerability management',
+  //     'Compliance (GDPR, HIPAA, PCI DSS)',
+  //     'Security training and awareness'
+  //   ]
+  // }
 ];

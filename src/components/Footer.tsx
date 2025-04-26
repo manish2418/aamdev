@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center mb-4">
               <Code className="h-8 w-8 text-blue-300" />
-              <span className="ml-2 text-xl font-bold">AAM DEVELOPER</span>
+              <span className="ml-2 text-xl font-bold">AAM Developers</span>
             </div>
             <p className="text-blue-200 mb-6">
               Transforming ideas into powerful software solutions. We help businesses leverage technology to achieve their goals.

@@ -177,7 +177,7 @@ const Contact: React.FC = () => {
         </div>
       </div>
 
-      <div className="mt-16 bg-white rounded-xl shadow-md overflow-hidden">
+      {/* <div className="mt-16 bg-white rounded-xl shadow-md overflow-hidden">
         <div className="h-96">
           <iframe
             title="office-location"
@@ -186,7 +186,7 @@ const Contact: React.FC = () => {
             loading="lazy"
           ></iframe>
         </div>
-      </div>
+      </div> */}
     </Section>
   );
 };

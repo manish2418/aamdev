@@ -11,7 +11,7 @@ const Projects: React.FC = () => {
   const categories: {id: Category, label: string}[] = [
     { id: 'all', label: 'All Projects' },
     { id: 'web', label: 'Web Apps' },
-    { id: 'mobile', label: 'Mobile Apps' },
+    // { id: 'mobile', label: 'Mobile Apps' },
     { id: 'enterprise', label: 'Enterprise' },
     { id: 'ecommerce', label: 'E-Commerce' }
   ];

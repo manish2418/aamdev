@@ -26,9 +26,9 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: 'Fitness Tracking App',
-    category: 'mobile',
-    description: 'A mobile application that helps users track workouts, nutrition, and health metrics with personalized recommendations.',
+    title: 'Credit Tracker',
+    category: 'web',
+    description: 'A web application our app simplifies tracking customer borrowings, repayments, and lending history in one secure platform..',
     image: 'https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['React Native', 'Firebase', 'Redux', 'Google Fit API', 'Apple HealthKit']
   },
@@ -42,18 +42,18 @@ export const projects: Project[] = [
   },
   {
     id: 5,
-    title: 'Supply Chain Management',
+    title: 'Dispatch System',
     category: 'enterprise',
     description: 'An enterprise solution for tracking inventory, managing suppliers, and optimizing logistics operations.',
     image: 'https://images.pexels.com/photos/236705/pexels-photo-236705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['Java', 'Spring Boot', 'PostgreSQL', 'Docker', 'Kubernetes']
   },
-  {
-    id: 6,
-    title: 'Food Delivery App',
-    category: 'mobile',
-    description: 'A food delivery application connecting restaurants with customers, featuring real-time order tracking and payment processing.',
-    image: 'https://images.pexels.com/photos/6169036/pexels-photo-6169036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['Flutter', 'Node.js', 'MongoDB', 'Stripe', 'Google Maps API']
-  }
+  // {
+  //   id: 6,
+  //   title: 'Food Delivery App',
+  //   category: 'mobile',
+  //   description: 'A food delivery application connecting restaurants with customers, featuring real-time order tracking and payment processing.',
+  //   image: 'https://images.pexels.com/photos/6169036/pexels-photo-6169036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+  //   technologies: ['Flutter', 'Node.js', 'MongoDB', 'Stripe', 'Google Maps API']
+  // }
 ];

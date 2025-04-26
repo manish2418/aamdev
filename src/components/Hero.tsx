@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
               Transforming Ideas into <span className="text-blue-800">Powerful</span> Solutions
             </h1>
             <p className="text-lg text-gray-600 mb-8 max-w-lg animate-fadeInUp" style={{ animationDelay: '0.4s' }}>
-              AAM Developer crafts custom software solutions that empower businesses to overcome challenges and achieve their full potential.
+              AAM Developers crafts custom software solutions that empower businesses to overcome challenges and achieve their full potential.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 animate-fadeInUp" style={{ animationDelay: '0.6s' }}>
               <Button 
@@ -69,10 +69,10 @@ const Hero: React.FC = () => {
         
         <div className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-8 animate-fadeIn" style={{ animationDelay: '1s' }}>
           {[
-            { value: '8+', label: 'Years Experience' },
-            { value: '150+', label: 'Projects Completed' },
-            { value: '50+', label: 'Happy Clients' },
-            { value: '12', label: 'Expert Developers' }
+            { value: '2+', label: 'Years Experience' },
+            { value: '10+', label: 'Projects Completed' },
+            { value: '5+', label: 'Happy Clients' },
+            { value: '6', label: 'Expert Developers' }
           ].map((stat, index) => (
             <div key={index} className="text-center">
               <div className="text-3xl md:text-4xl font-bold text-blue-800 mb-2">{stat.value}</div>

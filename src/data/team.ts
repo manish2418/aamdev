@@ -51,17 +51,17 @@ export const team: TeamMember[] = [
       twitter: "https://twitter.com/",
     },
   },
-  // {
-  //   id: 4,
-  //   name: "Rajesh Kumar",
-  //   position: "Backend Lead",
-  //   bio: "Database and API specialist with strong experience in performance optimization and scalable architectures.",
-  //   photo:
-  //     "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  //   social: {
-  //     linkedin: "https://linkedin.com/",
-  //     github: "https://github.com/",
-  //     twitter: "https://twitter.com/",
-  //   },
-  // },
+  {
+    id: 4,
+    name: "Aman Kumar Singh",
+    position: "Backend Lead",
+    bio: "Database and API specialist with strong experience in performance optimization and scalable architectures.",
+    photo:
+      "https://media.licdn.com/dms/image/v2/D5635AQGVumpRpDXMdA/profile-framedphoto-shrink_400_400/B56ZVRUlLyHEAc-/0/1740826105031?e=1746522000&v=beta&t=J8uap7NoOJqVbU6Vh6q3k9TBXkP2w2_d3v7e_YTIMmY",
+    social: {
+      linkedin: "https://linkedin.com/",
+      github: "https://github.com/",
+      twitter: "https://twitter.com/",
+    },
+  },
 ];

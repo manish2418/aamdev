@@ -24,7 +24,7 @@ export const team: TeamMember[] = [
       github: "https://github.com/",
       twitter: "https://twitter.com/",
     },
-  },
+   },
   {
     id: 2,
     name: "Anand Kumar",
@@ -37,7 +37,7 @@ export const team: TeamMember[] = [
       github: "https://github.com/",
       twitter: "https://twitter.com/",
     },
-  },
+   },
   {
     id: 3,
     name: "Anand Tiwari",
@@ -50,7 +50,7 @@ export const team: TeamMember[] = [
       github: "https://github.com/",
       twitter: "https://twitter.com/",
     },
-  },
+   },
   {
     id: 4,
     name: "Aman Singh",
@@ -62,7 +62,7 @@ export const team: TeamMember[] = [
       linkedin: "https://linkedin.com/",
       github: "https://github.com/",
       twitter: "https://twitter.com/",
-    }
+     },
     },
   {
     id: 5,
@@ -75,8 +75,8 @@ export const team: TeamMember[] = [
       linkedin: "https://linkedin.com/",
       github: "https://github.com/",
       twitter: "https://twitter.com/",
-    }
-  },
+    },
+   },
   {
     id: 6,
     name: "Utkarsh Maurya",
@@ -88,7 +88,7 @@ export const team: TeamMember[] = [
       linkedin: "https://linkedin.com/",
       github: "https://github.com/",
       twitter: "https://twitter.com/",
-    }
+    },
   },
   
 ];

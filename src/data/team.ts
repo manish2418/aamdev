@@ -31,7 +31,7 @@ export const team: TeamMember[] = [
     position: "Founder & CEO",
     bio: "Cloud architecture specialist with expertise in AWS, Azure, and GCP.",
     photo:
-      "https://media.licdn.com/dms/image/v2/D5635AQF0Wg89rCYmRw/profile-framedphoto-shrink_200_200/B56ZX3xnsQGcAg-/0/1743618735262?e=1746190800&v=beta&t=z1K6Dqs1h36pBs9Mfsb-2CxHpN2AsnRcohAsErfeTK8",
+      "https://media.licdn.com/dms/image/v2/D5635AQF0Wg89rCYmRw/profile-framedphoto-shrink_400_400/B56ZX3xnsQGcAk-/0/1743618735262?e=1747900800&v=beta&t=zCHoBiw7ee3uaOItcaV5Y0jGf5cNuSvh_RTlmcH9nUA,
     social: {
       linkedin: "https://linkedin.com/",
       github: "https://github.com/",
@@ -44,7 +44,7 @@ export const team: TeamMember[] = [
     position: "Founder & CEO",
     bio: "Database and API specialist with strong experience in performance optimization and scalable architectures.",
     photo:
-      "https://media.licdn.com/dms/image/v2/D5635AQGlF_X40GDq-A/profile-framedphoto-shrink_200_200/B56ZXspxwVGoAY-/0/1743432129906?e=1746190800&v=beta&t=PUME11FbdFObO-M5s6g2ciSiHw87nIie5M8Rb7LJ7NQ",
+      "https://media.licdn.com/dms/image/v2/D5635AQGlF_X40GDq-A/profile-framedphoto-shrink_400_400/B56ZXspxwVGoAc-/0/1743432129906?e=1747900800&v=beta&t=KhwWCj6EIDmo6tChq6juDF74czlgW06QejzRguZZmUU,
     social: {
       linkedin: "https://linkedin.com/",
       github: "https://github.com/",
@@ -53,15 +53,42 @@ export const team: TeamMember[] = [
   },
   {
     id: 4,
-    name: "Aman Kumar Singh",
+    name: "Aman Singh",
     position: "Backend Lead",
     bio: "Database and API specialist with strong experience in performance optimization and scalable architectures.",
     photo:
-      "https://media.licdn.com/dms/image/v2/D5635AQGVumpRpDXMdA/profile-framedphoto-shrink_400_400/B56ZVRUlLyHEAc-/0/1740826105031?e=1746522000&v=beta&t=J8uap7NoOJqVbU6Vh6q3k9TBXkP2w2_d3v7e_YTIMmY",
+      "https://media.licdn.com/dms/image/v2/D5603AQHxZZrYqJE84w/profile-displayphoto-shrink_400_400/B56ZVRUkEQGoAg-/0/1740826102355?e=1752710400&v=beta&t=9bVCKsZ9lb5gpwwXenQ2P5Sc5Dld8c-G7mJ442Bxd8A",
     social: {
       linkedin: "https://linkedin.com/",
       github: "https://github.com/",
       twitter: "https://twitter.com/",
+    }
     },
+  {
+    id: 5,
+    name: "Ritesh Kumar Upadhyay",
+    position: "Data Science & ML Expert",
+    bio: "Experienced Data Science and Machine Learning expert with a deep understanding of statistical modeling, machine learning algorithms, and data-driven strategy.",
+    photo:
+      "https://media.licdn.com/dms/image/v2/D4E03AQEg89wbyj3YNA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1672306493658?e=1752710400&v=beta&t=keR1dwvrOuZ6Rvpca2a_b-vn42fbG2LZePg8qnvVtwg",
+    social: {
+      linkedin: "https://linkedin.com/",
+      github: "https://github.com/",
+      twitter: "https://twitter.com/",
+    }
   },
+  {
+    id: 6,
+    name: "Utkarsh Maurya",
+    position: "Digital Marketing & SEO Expert",
+    bio: "Digital Marketing and SEO expert with a strong track record in boosting online visibility, driving targeted traffic, and optimizing conversions through data-driven strategies.",
+    photo:
+      "https://media.licdn.com/dms/image/v2/D5603AQH57C4dqEreow/profile-displayphoto-shrink_400_400/B56ZVJLCAwHQAg-/0/1740689384478?e=1752710400&v=beta&t=OepcBMZCBf5KJPhmfX-gn2ZqVqM80GZOh-DgDRCrBRw",
+    social: {
+      linkedin: "https://linkedin.com/",
+      github: "https://github.com/",
+      twitter: "https://twitter.com/",
+    }
+  },
+  
 ];
